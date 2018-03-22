@@ -9,6 +9,7 @@
     tools:context="lijo.com.mailbutton.MainActivity">
 
     <Button
+        android:textAllCaps="true"
         android:id="@+id/sendMail"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
